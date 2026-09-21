@@ -1,7 +1,7 @@
 # rime-wanxiang-correct
 基于万象PRO的全拼、自然码、小鹤双拼纠错扩展
 # 教程
-下载 [纠错扩展](https://github.com/x-skystar/rime-wanxiang-correct/releases/tag/v1.0.0) 并解压，将里面的文件放置在 Rime 个人用户文件夹 `lua/wanxiang`里，然后在 `wanxiang_pro.custom.yaml` 文件中追加补丁配置：
+下载 [纠错扩展](https://github.com/x-skystar/rime-wanxiang-correct/releases/tag/v1.0.1) 并解压，将里面的文件放置在 Rime 个人用户文件夹 `lua/wanxiang`里，然后在 `wanxiang_pro.custom.yaml` 文件中追加补丁配置：
 ```
 patch:
   engine/translators/+:
